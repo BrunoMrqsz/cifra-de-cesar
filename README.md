@@ -1,6 +1,6 @@
 # Cifra de César
 
-Projeto em linguagem C que aplica uma variação da Cifra de César utilizando um deslocamento adicional baseado na sequência de Fibonacci.
+Projeto de estudo para a matéria de Algoritmo e pensamento computacional em linguagem C que aplica uma variação da Cifra de César utilizando um deslocamento adicional baseado na sequência de Fibonacci.
 
 ## Como funciona
 
